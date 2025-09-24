@@ -9,15 +9,15 @@
 
 ## 🛤️ Mon parcours : Du terrain au code
 
-**2020-2022** | 🏃‍♂️ **STAPS & Recherche**  
+**2019-2024** | 🏃‍♂️ **STAPS & Recherche**  
 *"Comment mesurer la performance humaine ?"*  
 → Analyses comportementales, protocoles expérimentaux
 
-**2023** | 🔄 **Le déclic**  
+**2024** | 🔄 **Le déclic**  
 *"Et si l'IA pouvait prédire les performances ?"*  
 → Découverte du Machine Learning appliqué au sport
 
-**2024-2025** | 🤖 **Master IA & Data**  
+**2025-2027** | 🤖 **Master IA & Data**  
 *"Coder mes hypothèses scientifiques"*  
 → Python, Computer Vision, Data Science
 
