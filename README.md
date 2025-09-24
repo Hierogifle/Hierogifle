@@ -100,7 +100,7 @@ class RomualdIA:
 **Level actuel :** Étudiant IA 🎓  
 **XP principale :** Python, Data Science, Computer Vision  
 **Quête principale :** Maîtriser le Deep Learning  
-**Side quest :** Écrire "L'Odyssée de l'IA" + Projet RiseInGame
+**Side quest :** Écrire "L'Odyssée de l'IA" + Projet RiseInGame  
 **Achievement débloqué :** Alternant au Lab IA 🏆
 
 ---
