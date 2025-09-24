@@ -47,12 +47,28 @@ class RomualdIA:
 
 ## 🛠️ Stack Technique
 
+### 💻 Langages & Environnements
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=matlab&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+
+### 📊 Data Science & Analysis
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📈 Visualisation
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔍 Computer Vision & Outils
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Mes projets phares
 
@@ -67,9 +83,9 @@ class RomualdIA:
 **Public :** Vulgarisation scientifique accessible
 
 ### 🌊 Terre-Vent-Feu-Eau-Data
-> Analyse de données environnementales  
+> Application de visualisation et prédiction des feux de forêt en France 
 **Collaboration :** Projet d'équipe en Data Science  
-**Focus :** Visualisation et insights écologiques
+**Focus :** Visualisation et insights 
 
 ## 📊 Mes stats GitHub (comme dans un jeu !)
 
@@ -84,18 +100,17 @@ class RomualdIA:
 **Level actuel :** Étudiant IA 🎓  
 **XP principale :** Python, Data Science, Computer Vision  
 **Quête principale :** Maîtriser le Deep Learning  
-**Side quest :** Écrire "L'Odyssée de l'IA"  
+**Side quest :** Écrire "L'Odyssée de l'IA" + Projet RiseInGame
 **Achievement débloqué :** Alternant au Lab IA 🏆
 
 ---
 
 ## 🌱 Cette semaine j'ai...
 
-- 📖 **Lu :** "Hands-On Machine Learning" (Chapitre 8)
 - 🔧 **Codé :** Détection d'objets avec YOLO
-- 🏃‍♂️ **Couru :** 15km en trail
-- 🤔 **Découvert :** L'importance du data preprocessing (encore...)
-- 🎯 **Appris :** Optimisation des hyperparamètres avec Optuna
+- 🏃‍♂️ **Couru :** 15 kilomètres de "plat"
+- 🤔 **Découvert :** La méthode SCRUM
+- 🎯 **Appris :** 
 
 *Dernière update : Décembre 2024*
 
@@ -107,6 +122,7 @@ class RomualdIA:
 
 ## 🏃‍♂️ Quand je ne code pas...
 
+⚽ **Football** - - Analyse tactique et passion du terrain
 🏐 **Volley-ball** - Coordination d'équipe IRL  
 ⛰️ **Trail running** - Optimisation cardio en montagne  
 👨‍🍳 **Cuisine** - Expérimentation culinaire (avec succès variables)  
