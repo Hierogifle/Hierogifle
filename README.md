@@ -105,15 +105,6 @@ class RomualdIA:
 
 ---
 
-## 🌱 Cette semaine j'ai...
-
-- 🔧 **Codé :** Détection d'objets avec YOLO
-- 🏃‍♂️ **Couru :** 15 kilomètres de "plat"
-- 🤔 **Découvert :** La méthode SCRUM
-- 🎯 **Appris :** 
-
-*Dernière update : Décembre 2024*
-
 ## 🎯 Ma vision
 
 > *"Découvrir, comprendre et inventer des solutions qui permettent à l'humain d'améliorer son quotidien, d'économiser ses efforts et de repousser les limites des problématiques actuelles et futures."*
