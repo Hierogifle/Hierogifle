@@ -136,6 +136,6 @@ class RomualdIA:
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Hierogifle&color=brightgreen)
-[![wakatime](https://wakatime.com/badge/user/youruser.svg)](https://wakatime.com/@youruser)
+[![wakatime](https://wakatime.com/badge/user/Hierogifle.svg)](https://wakatime.com/@Hierogifle)
 
 </div>
