@@ -53,7 +53,7 @@ class RomualdIA:
 ![Matlab](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=matlab&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 ### 📊 Data Science & Analysis
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
