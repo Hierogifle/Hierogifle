@@ -113,7 +113,7 @@ class RomualdIA:
 
 ## 🏃‍♂️ Quand je ne code pas...
 
-⚽ **Football** - - Analyse tactique et passion du terrain  
+⚽ **Football** - Analyse tactique et passion du terrain  
 🏐 **Volley-ball** - Coordination d'équipe IRL  
 ⛰️ **Trail running** - Optimisation cardio en montagne  
 👨‍🍳 **Cuisine** - Expérimentation culinaire (avec succès variables)  
