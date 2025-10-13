@@ -9,7 +9,7 @@
 
 ## 🛤️ Mon parcours : Du terrain au code
 
-**2019-2024** | 🏃‍♂️ **Master STAPS - Facteurs Humains**  
+**2019-2024** | 🏃‍♂️ **Master STAPS -** [*Facteurs Humains*](https://fss.univ-amu.fr/fr/formations/diplomes-nationaux/master-staps-ingenierie-ergonomie-activite-physique/parcours-facteurs-humains-interactions)  
 *"Comment mesurer la performance humaine ?"*  
 → Analyses comportementales, protocoles expérimentaux
 
@@ -17,7 +17,7 @@
 *"Et si l'IA pouvait prédire nos comportements ?"*  
 → Découverte de l'IA
 
-**2025-2027** | 🤖 **Master IA & Data** - [La Plateforme_](https://laplateforme.io/msc-intelligence-artificielle/)  
+**2025-2027** | 🤖 **Master IA & Data** - [*La Plateforme*](https://laplateforme.io/msc-intelligence-artificielle/)  
 *"Coder mes hypothèses scientifiques"*  
 → Python, Computer Vision, Data Science
 
