@@ -9,7 +9,7 @@
 
 ## 🛤️ Mon parcours : Du terrain au code
 
-**2019-2024** | 🏃‍♂️ **STAPS & Recherche**  
+**2019-2024** | 🏃‍♂️ **Master STAPS - Facteurs Humains**  
 *"Comment mesurer la performance humaine ?"*  
 → Analyses comportementales, protocoles expérimentaux
 
