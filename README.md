@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🧠 Romuald Courtois | De l'humain à l'IA
-*"Quand les sciences du sport rencontrent l'intelligence artificielle"*
+*"Quand les sciences humaine rencontrent l'intelligence artificielle"*
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=STAPS+%E2%86%92+Data+Science;Eye-tracking+%2B+Machine+Learning;Performance+Humaine+%2B+IA)
 
@@ -14,10 +14,10 @@
 → Analyses comportementales, protocoles expérimentaux
 
 **2024** | 🔄 **Le déclic**  
-*"Et si l'IA pouvait prédire les performances ?"*  
-→ Découverte du Machine Learning appliqué au sport
+*"Et si l'IA pouvait prédire nos comportements ?"*  
+→ Découverte de l'IA
 
-**2025-2027** | 🤖 **Master IA & Data**  
+**2025-2027** | 🤖 **Master IA & Data** - [La Plateforme_](https://laplateforme.io/msc-intelligence-artificielle/)  
 *"Coder mes hypothèses scientifiques"*  
 → Python, Computer Vision, Data Science
 
@@ -26,7 +26,7 @@
 🔬 **Le Scientifique** : Je peux transformer n'importe quel comportement en données  
 👁️ **L'Observateur** : Eye-tracking et analyse du mouvement, même en gaming  
 🧮 **Le Traducteur** : Je fais parler les chiffres pour résoudre des problèmes humains  
-🎮 **Le Gamer-Analyste** : J'optimise les performances esport par la data  
+🎮 **Le Gamer-Analyste** : J'optimise les performances humaines par la data  
 
 ## 🔭 Actuellement dans mon labo...
 
