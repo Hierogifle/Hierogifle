@@ -99,11 +99,40 @@ class RomualdAI:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🧠 Modèles & Architectures
-**Neural Networks:** MLP (Multi-Layer Perceptron) • CNN (Convolutional Neural Networks)  
-**Tree-Based:** XGBoost • LightGBM • Random Forest  
-**Dimensionality Reduction:** PCA • MCA • FAMD • t-SNE • UMAP • PaCMAP  
-**Hyperparameter Optimization:** Optuna
 
+<table>
+<tr>
+<td width="25%" align="center">
+
+#### 🔮 Neural Networks
+`MLP`  
+`CNN`
+
+</td>
+<td width="25%" align="center">
+
+#### 🌳 Tree-Based
+`XGBoost`  
+`LightGBM`  
+`Random Forest`
+
+</td>
+<td width="25%" align="center">
+
+#### 📉 Dim. Reduction
+`PCA` `MCA` `FAMD`  
+`t-SNE` `UMAP`  
+`PaCMAP`
+
+</td>
+<td width="25%" align="center">
+
+#### ⚙️ Optimization
+`Optuna`
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📈 Projets de recherche
