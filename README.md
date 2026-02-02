@@ -119,20 +119,6 @@ Projet collaboratif de data science combinant analyses géospatiales, features m
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Romuald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hierogifle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hierogifle&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hierogifle&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
 ## 🎯 Vision & Ambition
 
 > *"Développer des solutions IA qui décodent le comportement humain pour améliorer performances, bien-être et processus décisionnels."*
