@@ -3,7 +3,11 @@
 # 🧠 Romuald Courtois | De l'humain à l'IA
 *"Quand les sciences humaine rencontrent l'intelligence artificielle"*
 
-!Typing SVG
+!Typing SVG(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=STAPS+%E2%86%92+AI+Engineering;Eye-tracking+%2B+Computer+Vision;Human+Performance+%2B+Machine+Learning)
+
+![LinkedIn](https://linkedin.com/in/romuald-courtois-b71945231/)
+![GitHub](https://github.com/Hierogifle)
+![Email](mailto:romuald.courtois@proton.me )
 
 </div>
 
@@ -126,9 +130,5 @@ return "Je peux expliquer la différence entre deux fixations... même en pleine
 ### 🤝 On collabore ?
 
 **Tu travailles sur l'IA dans le sport ?** | **Tu veux discuter Data Science ?** | **Curieux de mon parcours ?**
-
-![LinkedIn](https://linkedin.com/in/romuald-courtois-b71945231/)
-![GitHub](https://github.com/Hierogifle)
-![Email](mailto:romuald.courtois@proton.me )
 
 *"L'IA la plus sophistiquée reste l'intelligence humaine... pour l'instant 😉"*
