@@ -250,7 +250,7 @@ Projet collaboratif combinant **analyses géospatiales, features météo et mod�
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Hierogifle/Hierogifle/output/github-contribution-grid-snake-dark.svg)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer)
 
 *« L'IA la plus sophistiquée reste l'intelligence humaine… pour l'instant 😉 »*
 
