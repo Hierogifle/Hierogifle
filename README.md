@@ -198,6 +198,14 @@ Capture des patterns visuels en situation de jeu, détection de **zones d'attent
 
 ---
 
+### 🎬 Sparkle Movie — Recommandation de films par IA
+*Application full-stack de recommandation, pilotée par le machine learning*
+Moteur de recommandation sur **87 000+ films** via **KNN + similarité cosinus TF-IDF** : suggestions personnalisées (*« Fait pour vous »*) ou volontairement hors zone de confort (*« Changer d'air »*).
+Backend FastAPI (SQLite/SQLAlchemy, source Parquet) · Frontend React 19 + Vite · Déploiement Docker / Dokploy.
+`FastAPI` · `Scikit-learn` · `React` · `Recommender System`
+
+---
+
 ### 📚 L'Odyssée de l'Intelligence Artificielle *(en cours)*
 *Ouvrage de vulgarisation sur l'histoire de l'IA*
 
