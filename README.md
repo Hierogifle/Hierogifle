@@ -299,6 +299,7 @@ Je porte le **volet data & IA** de l'entreprise. Le cœur : **croiser la qualit�
 
 ## 🏃 Hors du code
 
+| | | |
 |:-:|:-:|:-:|
 | ⚽ **Football** <br> *lecture tactique* | 🏐 **Volley-ball** <br> *coordination collective* | ⛰️ **Trail running** <br> *endurance mentale* |
 | 🎮 **Gaming** <br> *sujet de recherche ET passion* | 👨‍🍳 **Cuisine** <br> *expérimentation (résultats variables)* | 📖 **Lecture** <br> *IA, sciences, philo* |
