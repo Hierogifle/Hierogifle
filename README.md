@@ -1,3 +1,153 @@
+<div align="center">
+
+# 🧠 Romuald Courtois
+### *De l'humain à l'IA — quand les sciences cognitives rencontrent le Machine Learning*
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Alternant+Data+%26+IA+%40+Candide+%C3%97+Blue;M2+Expert+IA+%26+Data+%40+La+Plateforme_;Facteurs+humains+%C3%97+Machine+Learning)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romuald-courtois-b71945231/)
+[![Email](https://img.shields.io/badge/Contact-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:romuald.courtois@proton.me)
+[![Projet phare](https://img.shields.io/badge/Projet_phare-Terre_Vent_Feu_Eau_Data-e34948?style=for-the-badge&logo=streamlit&logoColor=white)](https://terre-vent-feu-eau-data.streamlit.app)
+
+</div>
+
+---
+
+## 🎯 En une phrase
+
+**Alternant Data & IA chez Candide × Blue** — une alternative domestique à l'eau en bouteille, pilotée par la qualité de l'eau locale — et en **M2 Expert IA & Data à [La Plateforme_](https://laplateforme.io)**, je construis des modèles dont on peut **vérifier les résultats** : protocole avant le code, validation sans fuite, incertitude chiffrée.
+
+Mon atout : un background de chercheur en **STAPS – Facteurs Humains** (eye-tracking, modélisation du comportement). La démarche scientifique — hypothèse, biais, validation — appliquée au Machine Learning.
+
+---
+
+## 🛤️ Parcours
+
+```mermaid
+timeline
+    title Du comportement humain à la data science
+    2019-2024 : 🏃 Master STAPS — Facteurs Humains
+              : Eye-tracking · recherche expérimentale · statistiques
+    2024      : 🔄 Le pivot
+              : Machine Learning appliqué aux sciences du comportement
+    2025-2027 : 🎓 Master Expert IA & Data @ La Plateforme_
+              : Deep Learning · Computer Vision · MLOps
+    2025-2026 : 🤖 Lab IA @ La Plateforme_ (alternance)
+              : RAG · LLMs · Vision médicale
+    2026-2027 : 💧 Data & IA @ Candide × Blue (alternance)
+              : Qualité de l'eau · SISE-Eaux · moteur de recommandation
+```
+
+---
+
+## 🔭 En ce moment
+
+```python
+class Romuald:
+    role     = "Alternant Data & IA @ Candide × Blue"
+    school   = "M2 Expert IA & Data @ La Plateforme_"
+    shipping = ["💧 Qualité de l'eau à l'adresse", "🔥 Terre-Vent-Feu-Eau-Data"]
+    learning = ["Séries temporelles", "Statistiques bayésiennes", "MLOps"]
+    method   = "Hypothèse → Données → Modèle → Validation → Déploiement"
+    rule     = "Une métrique trop belle est une fuite jusqu'à preuve du contraire"
+```
+
+---
+
+## 💧 Chez Candide × Blue
+
+*Une station d'affinage de l'eau du robinet (filtration + pétillance) et des minéraux fonctionnels en sticks, recommandés à partir de la qualité de l'eau du foyer.*
+
+Je porte le **volet data & IA** de l'entreprise. Le cœur : **croiser la qualité de l'eau à l'adresse avec le profil du foyer** pour recommander la bonne cartouche filtrante et le bon profil de reminéralisation.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**✅ Fait**
+- Acquisition et structuration des données du contrôle sanitaire **SISE-Eaux** (~7 Go) et des contours des réseaux de distribution
+- **18 notebooks d'analyse** de la qualité de l'eau du robinet en France, restitués à la direction
+- Audit chiffré d'un POC de base de données livré par un prestataire
+- **Explorateur eau** : outil web interne d'exploration des données
+
+</td>
+<td width="50%" valign="top">
+
+**🛠️ En cours / à venir**
+- Chaînage **adresse → UDI → derniers résultats d'analyse**, socle du moteur de recommandation
+- Modélisation de la qualité de l'eau par territoire : nitrates, pesticides et métabolites, **PFAS**
+- Extension à l'Europe et classement des pays par disponibilité des données
+- Télémétrie de la station, indicateurs d'impact, outils IA internes et charte IA
+
+</td>
+</tr>
+</table>
+
+`SISE-Eaux` · `Hub'Eau` · `Géodonnées` · `SQL` · `Python` · `Recommandation`
+
+---
+
+## ⭐ Projet phare
+
+### 🔥 [Terre, Vent, Feu, Eau, Data](https://github.com/Hierogifle/terre-vent-feu-eau-data) — risque de feu de forêt, commune × jour
+
+[![Application](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://terre-vent-feu-eau-data.streamlit.app)
+[![Présentation](https://img.shields.io/badge/vitrine-hierogifle.github.io-e34948)](https://hierogifle.github.io/terre-vent-feu-eau-data/)
+[![CI](https://github.com/Hierogifle/terre-vent-feu-eau-data/actions/workflows/ci.yml/badge.svg)](https://github.com/Hierogifle/terre-vent-feu-eau-data/actions/workflows/ci.yml)
+
+*Quel est le risque de feu de la commune X le jour J ?* Quatre sources publiques (Copernicus CEMS, BDIFF, CORINE, INSEE) croisées dans PostgreSQL/PostGIS, une grille de **253 M lignes** (2006-2025) et un événement à **0,019 %** de positifs.
+
+<table>
+<tr>
+<td width="55%">
+
+<a href="https://terre-vent-feu-eau-data.streamlit.app"><img src="https://raw.githubusercontent.com/Hierogifle/terre-vent-feu-eau-data/main/docs/img/carte.png" alt="Carte du risque de feu au 12 août 2024"></a>
+
+</td>
+<td width="45%">
+
+- **Barrière temporelle** train 2006-19 / val 2020-22 / test 2023-25, garde-fous anti-fuite testés
+- **5 modèles** comparés avec IC appariés — XGBoost, RF, DART, MLP, LSTM
+- **×63,7 le hasard** sur le test, mesuré une seule fois
+- **Explicabilité** : SHAP local, LIME, contrefactuels DiCE
+- **Séries temporelles** : ADF, SARIMAX, tendance sur 53 ans de météo
+- **Projections 2100** sous 3 scénarios GIEC
+- Sans `lat`/`lon`, le modèle retrouve seul les Landes, la Méditerranée et la Corse
+
+</td>
+</tr>
+</table>
+
+`PostgreSQL/PostGIS` · `XGBoost` · `PyTorch` · `SHAP` · `statsmodels` · `Streamlit` · `pytest` · `GitHub Actions`
+
+---
+
+## 🧪 Autres projets
+
+| Projet | Ce que ça fait | Stack |
+|---|---|---|
+| 🎬 [**Sparkle Movie**](https://github.com/Hierogifle/sparkle-movie) | Recommandation sur 87 000+ films : *« Fait pour vous »* (KNN + cosinus TF-IDF) et *« Changer d'air »* (hors de ses genres habituels) | `FastAPI` `scikit-learn` `React 19` `Docker` |
+| ✍️ [**Handwritten Digits**](https://github.com/Hierogifle/Handwritten_Digits_Classification) | App web MNIST : dessin, upload ou caméra, prédictions MLP et CNN comparées en direct | `PyTorch` `Flask` `Canvas` `WebRTC` |
+| 🎓 [**DropOutGuard**](https://github.com/Hierogifle/DropOutGuard) | Détection précoce du décrochage étudiant : AFDM sur données mixtes + MLP, dont un MLP NumPy from scratch | `PyTorch` `NumPy` `FAMD` |
+| 🧩 [**ANN Playground**](https://github.com/Hierogifle/ANN-playground) · [**Perceptron**](https://github.com/Hierogifle/building-perceptron) | Fondamentaux : perceptron puis MLP codés à la main, comparés à Keras | `NumPy` `Keras` |
+| 📚 [**L'Odyssée de l'IA**](https://github.com/Hierogifle/ai-odyssey) | Recueil documentaire sur l'histoire de l'IA, de la logique aux transformers, avec timeline interactive | `LaTeX` `HTML` |
+
+<details>
+<summary><b>🤖 Lab IA — La Plateforme_ (2025-2026)</b></summary>
+<br>
+
+- **RAG Teams Bot** — assistant RAG avec LLM local (Ollama / Qwen) intégré à Microsoft Teams, pensé pour les contraintes UX enterprise (latence, progressive disclosure)
+- **Astrolabe / Nebula** — SaaS d'analyse du marché de l'emploi : scraping, enrichissement LLM, dashboard d'insights
+- **Ruban Rose** — classification histopathologique Benign / Malignant (BreakHis), split sans fuite patient, Focal Loss
+
+</details>
+
+---
+
+## 🛠️ Stack technique
+
+### 💻 Langages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=matlab&logoColor=white)
